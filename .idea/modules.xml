@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/conversor.iml" filepath="$PROJECT_DIR$/.idea/conversor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversor/conversor.iml" filepath="$PROJECT_DIR$/conversor/conversor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/conversor-SpringBoot.iml" filepath="$PROJECT_DIR$/.idea/conversor-SpringBoot.iml" />
     </modules>
   </component>
 </project>
